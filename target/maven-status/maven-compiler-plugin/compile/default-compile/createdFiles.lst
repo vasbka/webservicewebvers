@@ -1,0 +1,15 @@
+ua\nure\honcharenko\entity\Faculties.class
+ua\nure\honcharenko\servlet\AddFaculty.class
+ua\nure\honcharenko\provider\ServiceProvider.class
+ua\nure\honcharenko\entity\Faculty$Additional$BacheloerCount.class
+ua\nure\honcharenko\entity\FacultyBranch.class
+ua\nure\honcharenko\entity\Faculty$FacultyRoomNumber.class
+ua\nure\honcharenko\entity\ObjectFactory.class
+ua\nure\honcharenko\service\FacultyWebService.class
+ua\nure\honcharenko\entity\Faculty$Additional.class
+ua\nure\honcharenko\servlet\AllFaculties.class
+ua\nure\honcharenko\entity\Faculty.class
+ua\nure\honcharenko\entity\Entity.class
+ua\nure\honcharenko\servlet\Faculty.class
+ua\nure\honcharenko\servlet\Delete.class
+ua\nure\honcharenko\servlet\GetByTitle.class
